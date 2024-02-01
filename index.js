@@ -1,6 +1,6 @@
 //confirm if the player wants to play the game
 let playGame = confirm("Shall we play rock, paper, scissors?");
-
+ 
 //if yes proceed with the game
 if (playGame) {
   //ask the player to enter either rock paper or scissors
